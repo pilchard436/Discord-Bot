@@ -1,0 +1,6 @@
+Which item is shown in the picture?[A] Beetroot Seeds[B] Sweet Berries[C] Nether Wart[D] Coarse Dirt
+
+Which item is needed to brew a Lingering Potion?[A] Glowstone Dust[B] Gunpowder[C] Dragon’s Breath[D] Redstone Dust
+
+Which of these mobs doesn't exist in Minecraft?[A] Parrot[B] Shark[C] Dolphin[D] Panda
+

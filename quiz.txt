@@ -1,0 +1,95 @@
+Which beacon power is shown in the picture?~Regeneration
+There is an achievement related to pigs falling off cliffs.~True
+Spiders drop cobwebs and spider eyes when killed.~False
+How many different dimensions does Minecraft have?~3
+Which of these target selectors is false?~@e is for 'effluent player'
+In which version of Minecraft was the world border added?~1.8
+When does a Redstone torch turn off?~When the block it is attached to receives another power signal
+What is the real name of Minecraft developer (notch)?~Markus Persson
+How many end crystals does it take to respawn the ender dragon?~4
+Which of these mobs drops food when killed?~Pig
+Which item is needed to brew a Splash Potion?~Gunpowder
+Which of these mobs can't swim?~Enderman
+A fire arrow can be shot without a Flame enchanted bow.~True
+A diamond helmet grants more defense than a complete leather armor set.~False
+Which item is needed to increase the duration of a potion?~Redstone Dust
+In which version of Minecraft were horses added?~1.6
+How much material is needed to craft a complete armor set?~D
+A Blaze can be killed with snowballs.~True
+How many different dimensions does Minecraft have?~3
+How can you control a pig while riding it?~Use a carrot on a stick
+Which of these mobs can't attack you from a distance?~Bat
+How much obsidian is needed to craft an enchanting table?~4
+Which of these weapons is the best for breaking cobwebs?~Sword
+Herobrine was added to Minecraft in version 1.4 but got removed in 1.7.10.~False
+If you put an iron ingot into a crafting table, you can craft iron nuggets.~True
+Which of these mobs is not a type of Illager? (yes it's spelled right..)~Shulker
+In which version of Minecraft were Redstone blocks added?~1.5
+Which mob has 3 heads?~Wither
+How much damage (in hearts) does a Potion of Harming do?~6
+What happens to a player's movement speed on Soul Sand, when it is placed on ice?~Slows down
+Creepers are green and have black eyes and mouth.~True
+In what version of Minecraft was the crafting recipe for Enchanted Golden Apples removed?~1.9
+How much material is needed to craft a complete armor set?~24
+How many books are needed to craft an enchanting table?~1
+Which of these mobs drops gunpowder when killed?~Ghast
+Not all mobs receive fall damage.~True
+Which of the following provides the most amount of light?~Lantern
+How much wool is needed to craft a bed?~3
+Which mob is shown in the picture?~Blaze
+The Ghasts were voiced by which animal?~Cat
+As of version 1.6, which name would turn a mob upside down?~Dinnerbone
+How much paper is needed to craft a book?~3
+Which of these items might drop when killing an Enderman?~Ender Pearl
+Which Minecraft version (Java) is the Update Aquatic?~1.13
+How big is the crafting table grid?~3x3
+How many obsidian pillars does the End dimension have?~10
+What happens to a pig when it is struck by lightning?~It turns into a Zombie Pigman
+How many slots does a hopper have?~5
+Which of the following armor tiers provides the best defense?~Diamond
+What's the least amount of obsidian needed to craft a Nether portal?~10
+How many colors of wool are there in Minecraft?~16
+Which block is shown in the picture?~Missing texture block
+How much bone meal do you get from 1 bone?~3
+Which item is shown in the picture?~Nether Wart
+Which of the following provides the least amount of light?~Redstone Torch
+Who owns this skin?~Notch
+Which item is needed to remove potion effects?~Milk Bucket
+What's the highest level of Efficiency you can add to a diamond pickaxe using an enchantment table?~4
+Which item is needed to increase the strength of a potion?~Glowstone Dust
+In what version (Java) was the elytra added to Minecraft?~1.9
+Which block(s) are produced from the mixing of water and lava?~Obsidian, Cobblestone and Stone
+In which version of Minecraft were End Cities added?~1.9
+Which mob was the developer trying to make but accidentally created the Creeper?~Pig
+How many Ender Pearls can fit into a single inventory slot?~16
+You can put a chest on a donkey.~True
+What is the maximum building height (in blocks) in Minecraft?~256
+Which company bought Minecraft and Mojang?~Microsoft
+The Ender Dragon's fireballs can be deflected.~False
+What was Minecraft almost called?~Cave Game
+What year was Minecraft first released to the public?~2009
+Which mob is able to teleport?~Enderman
+Which of these mobs doesn't exist in Minecraft?~Shark
+Which of these mobs doesn't exist in Minecraft?~Rat
+What happens if you name a sheep "jeb_"?~It alternates colors
+Which of these ingredients is not needed to bake a cake?~Cocoa Beans
+Which of these food items restores the most food points?~Mushroom Stew
+Which Minecraft version (Java) added Bees?~1.15
+How many inventory slots does a small chest have?~24
+Which of the following has the least durability?~Gold sword
+In which version of Minecraft was the combat system revamped?~1.9
+You can tell a wolf's health by their what?~Tail
+Which item is needed to brew a Lingering Potion?~Dragon’s Breath
+When was the Nether added to Minecraft?~1.3.2
+Which Minecraft player skin was the first to be created?~Notch
+What happens to a villager when struck by lightning?~It turns into a witch
+Minecraft Realms are hosted by Mojang and are not free.~True
+How far (in blocks) can a Redstone signal travel?~15
+What aquatic hostile mob was added to Minecraft in the year 2014?~Guardians
+Which item is shown in the picture?~Steak
+Which action produces the Nausea effect?~Entering a Nether portal
+How many Eyes of Ender are needed to activate the End portal?~12
+Which item is needed to breed sheep?~Wheat
+How many layers of blocks are generated on default superflat worlds?~4
+Which item is needed to brew a Lingering Potion?~Dragon’s Breath
+What happens to an ender chest when broken with a regular diamond pickaxe?~8 obsidian drops
